@@ -1,6 +1,7 @@
 ## Hi there!
 
 - 🔭 I’m currently working on a custom wedding RSVP website for my own wedding.
+- 👯 I’m looking to collaborate on full-stack JavaScript projects.
 - 🌱 I’m currently learning Swift, and PHP.
 - ⚡ Fun fact: I have been stung by honeybees more than 500 times.
   
