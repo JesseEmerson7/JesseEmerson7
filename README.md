@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi there!
+
+- 🔭 I’m currently working on a custom wedding RSVP website for my own wedding.
+- 🌱 I’m currently learning Swift, and PHP.
+- ⚡ Fun fact: I have been stung by honeybees more than 500 times.
+  
+Thanks for stopping by and checking out my projects!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseemerson7)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesseemerson7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JesseEmerson7/JesseEmerson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
